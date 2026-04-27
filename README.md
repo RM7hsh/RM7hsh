@@ -1,16 +1,28 @@
-## Hi there 👋
+# Rajabali Rahimov
 
-<!--
-**RM7hsh/RM7hsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linux / Network / System Administration student from Kaluga, Russia.
 
-Here are some ideas to get you started:
+I specialize in Linux infrastructure, Russian operating systems, domain services, monitoring, automation, virtualization and network administration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main skills
+
+- Linux administration: Astra Linux, RED OS, ALT Linux
+- Domains: Samba AD, FreeIPA, ALD / ALD Pro, LDAP, Kerberos, DNS, DHCP
+- Networking: VLAN, NAT, VPN, GRE, BGP, OSPF, IS-IS, STP/RSTP
+- Monitoring: Prometheus, Grafana, Zabbix
+- Automation: Ansible, Terraform, Bash
+- Virtualization: Proxmox, ALT Virtualization, VMware ESXi, VirtualBox
+- Containers: Docker, Docker Swarm, Docker Registry
+- Security: Ideco NGFW, ViPNet, OpenVPN, SSL VPN, OpenSSL CA
+
+## Featured projects
+
+- Ansible Monitoring Automation
+- RedOS IT-Planet Ansible Solution
+- Ansible Node Control Lab
+- Linux Server Baseline Check
+
+## Contacts
+
+- Telegram: @IRajabali
+- Email: radzabali2007@gmail.com
