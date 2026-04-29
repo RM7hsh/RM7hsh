@@ -45,6 +45,12 @@ My strongest area is building complete infrastructure labs: routing, domains, DN
 
 ## Featured Projects
 
+### [ansible-linux-monitoring-platform](https://github.com/RM7hsh/ansible-linux-monitoring-platform)
+Production-style Ansible project for deploying a Linux monitoring platform based on Prometheus, Grafana, Alertmanager, Blackbox Exporter and Node Exporter. The project demonstrates role-based Ansible structure, inventory-driven configuration, dynamic Prometheus target generation from inventory, Grafana provisioning, Docker Compose validation and GitHub Actions CI. The commit history shows a realistic workflow: initial implementation, CI/lint issues, fixes and a final green pipeline.
+
+### [infrastructure-automation-blueprint](https://github.com/RM7hsh/infrastructure-automation-blueprint)
+Infrastructure automation blueprint using Terraform, Ansible, Docker Compose and GitHub Actions CI/CD. The project demonstrates Infrastructure as Code, automated checks, Docker Compose validation and a real CI troubleshooting workflow: initial pipeline failures, log analysis, Terraform formatting fixes, Ansible lint cleanup and successful CI completion.
+
 ### [ansible-monitoring-automation](https://github.com/RM7hsh/ansible-monitoring-automation)
 Ansible automation for Prometheus, Grafana, Linux node_exporter and Windows exporter. The project focuses on adding Linux/Windows hosts to monitoring, updating scrape targets, configuring firewall rules and automating monitoring stack deployment.
 
