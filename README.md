@@ -51,6 +51,9 @@ Production-style Ansible project for deploying a Linux monitoring platform based
 ### [infrastructure-automation-blueprint](https://github.com/RM7hsh/infrastructure-automation-blueprint)
 Infrastructure automation blueprint using Terraform, Ansible, Docker Compose and GitHub Actions CI/CD. The project demonstrates Infrastructure as Code, automated checks, Docker Compose validation and a real CI troubleshooting workflow: initial pipeline failures, log analysis, Terraform formatting fixes, Ansible lint cleanup and successful CI completion.
 
+### [linux-hardening-audit-toolkit](https://github.com/RM7hsh/linux-hardening-audit-toolkit)
+Python CLI toolkit for Linux server baseline security auditing: SSH hardening, firewall tooling, users, sudo, UID 0 checks, systemd/services, open ports, updates, disk visibility and JSON/Markdown reports. The project includes pytest, ruff, GitHub Actions CI and a clean Git workflow with feature branches, merge commits and release tags.
+
 ### [ansible-monitoring-automation](https://github.com/RM7hsh/ansible-monitoring-automation)
 Ansible automation for Prometheus, Grafana, Linux node_exporter and Windows exporter. The project focuses on adding Linux/Windows hosts to monitoring, updating scrape targets, configuring firewall rules and automating monitoring stack deployment.
 
